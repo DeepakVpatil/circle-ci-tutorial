@@ -38,7 +38,7 @@
     </dependencies>
 
     <build>
-        <finalName>circle-ci-tutorial</finalName>
+        <finalName>xtaas-ci-cd</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
